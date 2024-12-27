@@ -1,0 +1,13 @@
+/R_dock.py
+/Reverse_Dock_process.py
+/__pycache__
+/getruguo_PDB.py
+/out_dock
+/out_dock.txt
+/output_ligand
+/ruguoPDB
+/ruguo_Normalized_Sum_RDkit_RXNFP_combind.csv
+/ruguo_dock_affinity_results.csv
+/ruguo_ligand
+/反向虚拟筛选程序流程.ipynb
+/提取虚拟筛选结果.ipynb
